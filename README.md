@@ -13,6 +13,9 @@ My solutions for [Advent of Code](https://adventofcode.com/) 2018, written in PH
 * [Day 3](https://github.com/cbzink/AdventOfCode2018/tree/master/day-3)
     * [Puzzle 1](https://github.com/cbzink/AdventOfCode2018/blob/master/day-3/puzzle-1-solution.php)
     * [Puzzle 2](https://github.com/cbzink/AdventOfCode2018/blob/master/day-3/puzzle-2-solution.php)
+* [Day 4](https://github.com/cbzink/AdventOfCode2018/tree/master/day-4)
+    * [Puzzle 1](https://github.com/cbzink/AdventOfCode2018/blob/master/day-4/puzzle-1-solution.php)
+    * [Puzzle 2](https://github.com/cbzink/AdventOfCode2018/blob/master/day-4/puzzle-2-solution.php)
 
 ### Notes of interest
 
